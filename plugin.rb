@@ -1,4 +1,4 @@
-# name: discourse-embed-allowall
+# name: embed-allowall
 # about: Allow all hosts to embed discourse comments
 # version: 1
 # authors: Daniel Stadelman, riking
