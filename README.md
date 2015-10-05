@@ -16,7 +16,7 @@ hooks:
         cmd:
           - mkdir -p plugins
           - git clone https://github.com/discourse/docker_manager.git
-          - git clone https://github.com/ruffbytes/embed-allowall.git
+          - git clone https://github.com/ruffbytes/discourse-embed-allowall.git
 ```
 
 * Rebuild the container
